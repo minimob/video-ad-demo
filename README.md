@@ -6,5 +6,5 @@
     Android repository: https://github.com/minimob/video-ad-demo-android. 
     (https://play.google.com/store/apps/details?id=com.minimob.addemos)
     </li>
-    <!--<li>Unity repository: https://github.com/minimob/video-ad-serving-unity</li>-->
+    <li>Unity repository: https://github.com/minimob/video-ad-demo-unity</li>
 </ol>
